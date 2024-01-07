@@ -1,0 +1,25 @@
+{
+<<<<<<< HEAD
+=======
+    "Ghada": {
+        "Transaction History": [
+            {
+                "datetime": "2024-01-07 20:03:30",
+                "details": "-3000"
+            },
+            {
+                "datetime": "2024-01-07 02:46:32",
+                "details": "3000"
+            },
+            {
+                "datetime": "2024-01-07 02:45:54",
+                "details": "3000"
+            },
+            {
+                "datetime": "2024-01-06 18:49:58",
+                "details": "-3000"
+            }
+        ]
+    }
+>>>>>>> eae4a420cfac246618c7e417b85bb208e83ae4fb
+}

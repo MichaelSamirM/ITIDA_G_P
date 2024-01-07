@@ -1,0 +1,29 @@
+{
+<<<<<<< HEAD
+
+=======
+    "Adel": {
+        "Account Number": "310129",
+        "Age": "25",
+        "Balance": "197800",
+        "fullname": "Mohamed Adel",
+        "password": "Adel123"
+    },
+>>>>>>> eae4a420cfac246618c7e417b85bb208e83ae4fb
+    "Ibrahim": {
+        "Account Number": "281481647",
+        "Age": "26",
+        "Balance": "14000",
+<<<<<<< HEAD
+        "password": "Ibrahim123"
+    },
+    "samir": {
+        "Account Number": "788859791",
+        "Age": "73",
+        "Balance": "5000"
+=======
+        "fullname": "Ibrahim Abdo",
+        "password": "Ibrahim123"
+>>>>>>> eae4a420cfac246618c7e417b85bb208e83ae4fb
+    }
+}
