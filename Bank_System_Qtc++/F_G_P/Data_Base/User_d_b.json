@@ -1,0 +1,16 @@
+{
+    "Adel": {
+        "Account Number": "310129",
+        "Age": "25",
+        "Balance": "197800",
+        "fullname": "Mohamed Adel",
+        "password": "Adel123"
+    },
+    "Ibrahim": {
+        "Account Number": "281481647",
+        "Age": "26",
+        "Balance": "14000",
+        "fullname": "Ibrahim Abdo",
+        "password": "Ibrahim123"
+    }
+}
